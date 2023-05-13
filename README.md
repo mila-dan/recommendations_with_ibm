@@ -53,4 +53,4 @@ Flask app was created to give the training data overview and classify the messag
 
 ## Acknowledgments
 
-This project was done as the part of Udacity learning. The data have been provided by [Appen](https://appen.com/).
+This project was done as the part of Udacity learning. The data have been provided by the IBM Watson Studio platform.
